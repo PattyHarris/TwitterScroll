@@ -1,21 +1,45 @@
 .tweet {
     width: 38rem;
-    position: relative;
     background: grey;
+    position: relative;
+    
     /* border: 1px solid grey;*/
   }
   
-  .tweetColumn {
-    display: inline-block;
-  }
-  
-  /*
   .tweetMainHeader {
+    background: green;
   }
   
   .tweetMainHeaderItem {
     display: inline-block;
   }
+
+  .tweetMainMessage {
+    background: purple;
+
+    /* Later...
+    overflow-wrap: break-word;*/
+  }
+  
+  .tweetFooter {
+    background: orange;
+  }
+  
+  .tweetFooterStats {
+    display: inline-block;
+    width: 4rem;
+  }
+
+  .tweetFooterStatsItem {
+    display: inline-block;
+  }
+
+  .tweetColumn {
+    display: inline-block;
+  }
+  
+  /*
+  
   
   .tweetMainHeaderItemName {
     font-size: 15px;
@@ -28,21 +52,8 @@
     color: lightgrey;
   }
   
-  .tweetMainMessage {
-    overflow-wrap: break-word;
-  }
   
-  .tweetFooter {
-  }
   
-  .tweetFooterStats {
-    display: inline-block;
-    width: 4rem;
-  }
-  
-  .tweetFooterStatsItem {
-    display: inline-block;
-  }
   */
   
   .tweetIcon {
