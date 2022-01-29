@@ -28,8 +28,7 @@
 
 
 .tweetMainMessage {
-  /* Later...
-  overflow-wrap: break-word;*/
+  overflow-wrap: break-word;
 }
   
 .tweetFooter {

@@ -27,6 +27,7 @@
 }
 
 .tweet__main__message {
+    overflow-wrap: break-word;
 }
 
 .tweet__footer {
