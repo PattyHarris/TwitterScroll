@@ -1,3 +1,7 @@
+/*
+  Fake Data
+*/
+
 function loadTestData() {
     const sampleData = [];
     const sampleDataSize = 20;
